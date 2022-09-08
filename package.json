@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-side-panel",
+  "version": "1.0.0",
+  "description": "Responsive side panel built with Bootstrap 5. Examples of responsive side panels which include slides, navigation, collapsing and more.",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiotrGusciora/bootstrap-side-panel.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "bootstrap-side-panel",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiotrGusciora/bootstrap-side-panel/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/side-panel/"
+}
