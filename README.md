@@ -78,18 +78,12 @@ ___
 ## More extended Bootstrap documentation
 
 <ul>
-<li><a href="https://mdbootstrap.com/docs/standard/navigation/sidenav/>Bootstrap  Sidenav</a><li>
-
+<li><a href="https://mdbootstrap.com/docs/standard/navigation/sidenav/">Bootstrap  Sidenav</a><li>
 <li><a href="https://mdbootstrap.com/docs/standard/extended/side-navbar/">Bootstrap Side Navbar</a><li>
-
 <li><a href="https://mdbootstrap.com/docs/standard/extended/sidebar/">Bootstrap Sidebar</a><li>
-
 <li><a href="https://mdbootstrap.com/docs/standard/extended/vertical-navbar/">Bootstrap Vertical navbar</a><li>
-
 <li><a href="https://mdbootstrap.com/docs/standard/extended/hamburger-menu/">Bootstrap Hamburger Menu</a><li>
-
 <li><a href="https://mdbootstrap.com/docs/standard/extended/offcanvas/">Bootstrap Offcanvas</a><li>
-
 <li><a href="https://mdbootstrap.com/docs/standard/extended/drawer/">Bootstrap Drawer</a><li>
 </ul>
 
