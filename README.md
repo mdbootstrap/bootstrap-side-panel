@@ -68,7 +68,7 @@ Check out [Bootstrap Side panel Documentation](https://mdbootstrap.com/docs/stan
 ![Bootstrap 5 Side panel](/assets/slide.png)](https://mdbootstrap.com/docs/standard/extended/side-panel/#section-slide)
 
 [Bootstrap Side panel collapse:
-![Bootstrap 5 Side panel](/assets/ncollapse.png)](https://mdbootstrap.com/docs/standard/extended/side-panel/#section-collapse)
+![Bootstrap 5 Side panel](/assets/collapse.png)](https://mdbootstrap.com/docs/standard/extended/side-panel/#section-collapse)
 
 [Bootstrap Side panel slim example:
 ![Bootstrap 5 Side panel](/assets/slim-example.png)](https://mdbootstrap.com/docs/standard/extended/side-panel/#section-slim-example)
