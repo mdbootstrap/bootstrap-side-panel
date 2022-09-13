@@ -25,7 +25,7 @@ Check out [Bootstrap Side panel Documentation](https://mdbootstrap.com/docs/stan
 ![Bootstrap 5 Side panel](/assets/slide.png)](https://mdbootstrap.com/docs/standard/extended/side-panel/#section-slide)
 
 [Bootstrap Side panel collapse:
-![Bootstrap 5 Side panel](/assets/ncollapse.png)](https://mdbootstrap.com/docs/standard/extended/side-panel/#section-collapse)
+![Bootstrap 5 Side panel](/assets/collapse.png)](https://mdbootstrap.com/docs/standard/extended/side-panel/#section-collapse)
 
 [Bootstrap Side panel slim example:
 ![Bootstrap 5 Side panel](/assets/slim-example.png)](https://mdbootstrap.com/docs/standard/extended/side-panel/#section-slim-example)
@@ -35,6 +35,7 @@ ___
 ## More extended Bootstrap documentation
 
 <ul>
+<<<<<<< HEAD
 <li><a href="https://mdbootstrap.com/docs/standard/extended/bootstrap-address-form/">Bootstrap Address Form</a></li>
 <li><a href="https://mdbootstrap.com/docs/standard/extended/avatar/">Bootstrap Avatar</a></li>
 <li><a href="https://mdbootstrap.com/docs/standard/extended/back-to-top/">Bootstrap Back To Top Button</a></li>
@@ -118,5 +119,14 @@ ___
 <li><a href="https://mdbootstrap.com/docs/standard/extended/modal-form/">Bootstrap Modal Form</a></li> 
 <li><a href="https://mdbootstrap.com/docs/standard/extended/horizontal-list/">Bootstrap Horizontal list</a></li> 
 
+=======
+<li><a href="https://mdbootstrap.com/docs/standard/navigation/sidenav/">Bootstrap  Sidenav</a></li>
+<li><a href="https://mdbootstrap.com/docs/standard/extended/side-navbar/">Bootstrap Side Navbar</a></li>
+<li><a href="https://mdbootstrap.com/docs/standard/extended/sidebar/">Bootstrap Sidebar</a></li>
+<li><a href="https://mdbootstrap.com/docs/standard/extended/vertical-navbar/">Bootstrap Vertical navbar</a></li>
+<li><a href="https://mdbootstrap.com/docs/standard/extended/hamburger-menu/">Bootstrap Hamburger Menu</a></li>
+<li><a href="https://mdbootstrap.com/docs/standard/extended/offcanvas/">Bootstrap Offcanvas</a></li>
+<li><a href="https://mdbootstrap.com/docs/standard/extended/drawer/">Bootstrap Drawer</a></li>
+>>>>>>> db0b29a42ad3c509b77d82181c2889a179a4610b
 </ul>
 
