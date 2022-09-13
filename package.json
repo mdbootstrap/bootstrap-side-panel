@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PiotrGusciora/bootstrap-side-panel.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-side-panel.git"
   },
   "keywords": [
     "bootstrap",
@@ -22,7 +22,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PiotrGusciora/bootstrap-side-panel/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-side-panel/issues"
   },
   "homepage": "https://mdbootstrap.com/docs/standard/extended/side-panel/"
 }
